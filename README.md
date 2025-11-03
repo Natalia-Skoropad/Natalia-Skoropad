@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Nataliia Skoropad</h1>
-<p align="center">Front-end developer • UX designer</p>
+<p align="center">Frontend developer | UX Designer | UI Designer | Graphic Designer</p>
 
 ---
 
