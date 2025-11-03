@@ -18,12 +18,3 @@
 - Node.js (basic), Vercel  
 - Figma, Photoshop, Illustrator
 </details>
-
-<details>
-<summary>📫 Contacts</summary>
-
-- Email: your@email  
-- LinkedIn: https://www.linkedin.com/in/…  
-- Telegram: https://t.me/…
-</details>
-
