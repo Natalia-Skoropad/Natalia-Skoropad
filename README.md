@@ -20,18 +20,6 @@
 </details>
 
 <details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia-Skoropad&show_icons=true&hide_title=true&theme=transparent)
-</details>
-
-<details>
-<summary>🧩 Codewars</summary>
-
-![Codewars](https://www.codewars.com/users/ТВІЙ_ЛОГІН/badges/large)
-</details>
-
-<details>
 <summary>📫 Contacts</summary>
 
 - Email: your@email  
