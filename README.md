@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner -->
 <p align="center">
   <img src="img/banner.png" alt="Nataliia Skoropad" width="100%" />
