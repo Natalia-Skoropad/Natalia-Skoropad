@@ -17,9 +17,9 @@
         <img src="img/javascript-logo-gold.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
         <img src="img/css-logo-gold.svg" alt="CSS" width="40" />&nbsp;&nbsp;
         <img src="img/html-logo.svg" alt="HTML" width="40" />&nbsp;&nbsp;
-        <img src="img/vite-logo.svg" alt="Vite" width="40" />
-        <img src="img/visual-studio-logo.svg" alt="Visual Studio" width="40" />
-        <img src="img/git-logo-big.svg" alt="Git" width="40" />
+        <img src="img/vite-logo.svg" alt="Vite" width="40" />&nbsp;&nbsp;
+        <img src="img/visual-studio-logo.svg" alt="Visual Studio" width="40" />&nbsp;&nbsp;
+        <img src="img/git-logo-big.svg" alt="Git" width="40" />&nbsp;&nbsp;
         <img src="img/postman.svg" alt="Postman" width="40" />
       </p>
       <p style="margin:0;">
