@@ -11,23 +11,23 @@
     <td align="left" valign="top"
         style="padding:0; border-left:2px; border-right:2px; border-top:0; border-bottom:0;">
       <p style="margin:0 0 12px 0;">
-        <img src="img/react-small-logo-gold.svg" alt="React" width="39" />&nbsp;&nbsp;
-        <img src="img/typescript-small-logo-gold.svg" alt="TypeScript" width="39" />&nbsp;&nbsp;
-        <img src="img/javascript-logo-gold.svg" alt="JavaScript" width="39" />&nbsp;&nbsp;
-        <img src="img/css-logo-gold.svg" alt="CSS" width="39" />&nbsp;&nbsp;
-        <img src="img/html-logo.svg" alt="HTML" width="39" />&nbsp;&nbsp;
-        <img src="img/vite-logo.svg" alt="Vite" width="39" />&nbsp;&nbsp;
-        <img src="img/nextjs-icon.svg" alt="Nextjs" width="39" />&nbsp;&nbsp;
-        <img src="img/visual-studio-logo.svg" alt="Visual Studio" width="39" />&nbsp;&nbsp;
-        <img src="img/git-logo-big.svg" alt="Git" width="39" />&nbsp;&nbsp;
-        <img src="img/postman.svg" alt="Postman" width="39" />
+        <img src="img/react-small-logo-gold.svg" alt="React" width="38" />&nbsp;&nbsp;
+        <img src="img/typescript-small-logo-gold.svg" alt="TypeScript" width="38" />&nbsp;&nbsp;
+        <img src="img/javascript-logo-gold.svg" alt="JavaScript" width="38" />&nbsp;&nbsp;
+        <img src="img/css-logo-gold.svg" alt="CSS" width="38" />&nbsp;&nbsp;
+        <img src="img/html-logo.svg" alt="HTML" width="38" />&nbsp;&nbsp;
+        <img src="img/vite-logo.svg" alt="Vite" width="38" />&nbsp;&nbsp;
+        <img src="img/nextjs-icon.svg" alt="Nextjs" width="38" />&nbsp;&nbsp;
+        <img src="img/visual-studio-logo.svg" alt="Visual Studio" width="38" />&nbsp;&nbsp;
+        <img src="img/git-logo-big.svg" alt="Git" width="38" />&nbsp;&nbsp;
+        <img src="img/postman.svg" alt="Postman" width="38" />
       </p>
       <p style="margin:0;">
-        <img src="img/moqups-logo.svg" alt="Moqups" width="39" />&nbsp;&nbsp;
-        <img src="img/figma-logo.svg" alt="Figma" width="39" />&nbsp;&nbsp;
-        <img src="img/indesign-logo-gold.svg" alt="InDesign" width="39" />&nbsp;&nbsp;
-        <img src="img/illustrator-logo-gold.svg" alt="Illustrator" width="39" />&nbsp;&nbsp;
-        <img src="img/photoshop-logo-gold.svg" alt="Photoshop" width="39" />
+        <img src="img/moqups-logo.svg" alt="Moqups" width="38" />&nbsp;&nbsp;
+        <img src="img/figma-logo.svg" alt="Figma" width="38" />&nbsp;&nbsp;
+        <img src="img/indesign-logo-gold.svg" alt="InDesign" width="38" />&nbsp;&nbsp;
+        <img src="img/illustrator-logo-gold.svg" alt="Illustrator" width="38" />&nbsp;&nbsp;
+        <img src="img/photoshop-logo-gold.svg" alt="Photoshop" width="38" />
       </p>
     </td>
     <td align="right" valign="bottom"
