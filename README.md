@@ -40,7 +40,7 @@
 <td align="right" valign="bottom" width="45%">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nataliia-Skoropad&layout=compact&langs_count=6&hide_title=false&title_color=6C63FF&text_color=F5F5F5&bg_color=0E0E0E&hide_border=true&border_radius=10"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Natalia-Skoropad&layout=compact&langs_count=6&hide_title=false&title_color=6C63FF&text_color=F5F5F5&bg_color=0E0E0E&hide_border=true&border_radius=10"
   alt="Most Used Languages"
 />
 
