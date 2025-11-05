@@ -1,3 +1,8 @@
+<!-- banner -->
+<p align="center">
+  <img src="img/banner.png" alt="Nataliia Skoropad" width="100%">
+</p>
+
 <!-- DEV & DESIGN STACK -->
 <h2>DEV &amp; DESIGN STACK</h2>
 
