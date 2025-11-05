@@ -22,7 +22,6 @@
       &nbsp;&nbsp;
       <img src="img/vite-logo.svg" alt="Vite" width="40" />
     </p>
-
     <p style="margin:0;">
       <img src="img/moqups-logo.svg" alt="Moqups" width="40" />
       &nbsp;&nbsp;
@@ -34,7 +33,6 @@
       &nbsp;&nbsp;
       <img src="img/photoshop-logo-gold.svg" alt="Photoshop" width="40" />
     </p>
-
   </div>
 
   <!-- Права колонка: статистика, темний фон -->
