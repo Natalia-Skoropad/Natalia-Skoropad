@@ -73,7 +73,7 @@ Implemented features include: a section with my skills, a list of my projects, a
 
 | **Languages** | **Contacts** |
 |---------------|--------------|
-| ![English](https://img.shields.io/badge/English-B1%2FB2-blue) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow) | ![Email](https://img.shields.io/badge/✉️%20Email-nataliia.skoropad%40gmail.com-red) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataliia--Skoropad-blue) ![Telegram](https://img.shields.io/badge/Telegram-%40YOUR_TELEGRAM-26A5E4) |
+| ![English](https://img.shields.io/badge/English-B1%2FB2-blue) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow) | ![Email](https://img.shields.io/badge/✉️%20Email-skoropad_natalia%40ukr.net-red) ![LinkedIn](https://img.shields.io/badge/LinkedIn-nataliia-skoropad-blue) ![Telegram](https://img.shields.io/badge/Telegram-%40skoropad_natalia-26A5E4) |
 
 
 
