@@ -71,12 +71,10 @@ Implemented features include: a section with my skills, a list of my projects, a
 
 <h2>Languages & Contacts</h2>
 
-| Languages | Contacts |
+| **Languages** | **Contacts** |
 |---------------|--------------|
-| ![English](https://img.shields.io/badge/English-B1/B2-6C63FF?style=for-the-badge&labelColor=0E0E0E&color=6C63FF&logoColor=F5F5F5) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-CBAF87?style=for-the-badge&labelColor=0E0E0E&color=CBAF87&logoColor=0E0E0E) | 
-[![Email](https://img.shields.io/badge/Email-skoropad_natalia%40ukr.net-6C63FF?style=for-the-badge&labelColor=0E0E0E&color=6C63FF)](mailto:skoropad_natalia@ukr.net)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataliia--Skoropad-CBAF87?style=for-the-badge&labelColor=0E0E0E&color=CBAF87)](https://www.linkedin.com/in/nataliia-skoropad/)  
-[![Telegram](https://img.shields.io/badge/Telegram-%40skoropad__natalia-6C63FF?style=for-the-badge&labelColor=0E0E0E&color=6C63FF)](https://t.me/skoropad_natalia) |
+| ![ENGLISH](https://img.shields.io/badge/ENGLISH-0E0E0E?style=flat-rounded&labelColor=0E0E0E&color=0E0E0E) ![B1/B2](https://img.shields.io/badge/B1%2FB2-6C63FF?style=flat-rounded&labelColor=6C63FF&color=6C63FF) ![UKRAINIAN](https://img.shields.io/badge/UKRAINIAN-0E0E0E?style=flat-rounded&labelColor=0E0E0E&color=0E0E0E) ![NATIVE](https://img.shields.io/badge/NATIVE-CBAF87?style=flat-rounded&labelColor=CBAF87&color=CBAF87) | [![Email](https://img.shields.io/badge/Email-skoropad__natalia%40ukr.net-6C63FF?style=flat-rounded&labelColor=0E0E0E&color=6C63FF)](mailto:skoropad_natalia@ukr.net)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataliia--Skoropad-CBAF87?style=flat-rounded&labelColor=0E0E0E&color=CBAF87)](https://www.linkedin.com/in/nataliia-skoropad/)<br>[![Telegram](https://img.shields.io/badge/Telegram-%40skoropad__natalia-6C63FF?style=flat-rounded&labelColor=0E0E0E&color=6C63FF)](https://t.me/skoropad_natalia) |
+
 
 
 
