@@ -1,5 +1,5 @@
 <!-- banner -->
-<h1>👋 Hi, I'm Nataliia Skoropad</h1>
+<h2>👋 Hi, I'm Nataliia Skoropad</h2>
 
 <p align="center">
   <img src="img/banner.png" alt="Nataliia Skoropad" width="100%">
