@@ -48,3 +48,14 @@
     </td>
   </tr>
 </table>
+
+<h2>💻Featured Projects</h2>
+<ul>
+  <li>
+    <p>
+      This is a single-page website showcasing my projects and IT work experience, designed for mobile, tablet, and desktop.
+Implemented features include: a section with my skills, a list of my projects, a contact form for sending messages, and a convenient contact widget. Technologies used: React · TypeScript · JavaScript · CSS · HTML · Formik · Yup · clsx · modern-normalize · Adobe Photoshop · Figma · Resend · Vite · Vercel
+    </p>
+  </li>
+
+</ul>
