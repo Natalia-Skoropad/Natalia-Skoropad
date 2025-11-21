@@ -74,11 +74,8 @@ Implemented features include: a section with my skills, a list of my projects, a
     <td align="left" valign="top"
         style="padding:0; border-left:2px; border-right:2px; border-top:0; border-bottom:0;">
       <h2>🗣️ Languages</h2>
-        **Ukrainian**  
-          ██████████ 100%
-
-        **English**  
-          ██████░░░░ 60%
+- **Ukrainian** — Native  
+- **English** — Intermediate (B1–B2)
     </td>
     <td align="right" valign="top"
       
