@@ -13,7 +13,7 @@
 </p>
 
 <!-- DEV & DESIGN STACK -->
-<h2>DEV &amp; DESIGN STACK</h2>
+<h2>💻 DEV &amp; DESIGN STACK</h2>
 
 <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0;">
   <tr>
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<h2>💻Featured Projects</h2>
+<h2>🚀 Featured Projects</h2>
 <ul>
   <li>
     <p>
@@ -66,7 +66,19 @@ Implemented features include: a section with my skills, a list of my projects, a
 </ul>
 
 <h2>📊 GitHub Activity Graph</h2>
-
 [![Nataliia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Skoropad&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-
+<h2>📊 GitHub Activity Graph</h2>
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0;">
+  <tr>
+    <td align="left" valign="top"
+        style="padding:0; border-left:2px; border-right:2px; border-top:0; border-bottom:0;">
+      <h2>🗣️ Languages</h2>
+      ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue)
+      ![English](https://img.shields.io/badge/English-Intermediate-yellow)
+    </td>
+    <td align="right" valign="top"
+      
+    </td>
+  </tr>
+</table>
