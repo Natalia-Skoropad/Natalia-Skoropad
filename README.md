@@ -69,5 +69,11 @@ Implemented features include: a section with my skills, a list of my projects, a
 
 [![Nataliia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Skoropad&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+## 📝 Languages & Contacts
 
+| **Languages** | **Contacts** |
+|---------------|--------------|
+| 🇺🇦 Ukrainian — Native | ✉️ nataliia.skoropad@gmail.com |
+| 🇷🇺 Russian — Fluent | 🔗 linkedin.com/in/nataliia-skoropad |
+| 🇬🇧 English — Intermediate | 🐙 github.com/Nataliia-Skoropad |
 
