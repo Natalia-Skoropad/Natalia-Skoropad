@@ -66,7 +66,13 @@ Implemented features include: a section with my skills, a list of my projects, a
   
   <li>
     <p>
-      <a href="https://github.com/ZViacheslavV/developers-orchestra-project">ArtistsHub</a> This is a group project. My role: Scrum Master Assistant. My contribution to the project was as follows: Developed the “Reviews” section on the website; Added toasts to the site (izitoast); Optimized the icon sprite; Optimized project images; Tested website functionality (PageSpeed Insights, CSS Validation Service, Markup Validation Service); Designed the project presentation in Figma; Supported team members and helped them finalize their sections to meet the deadline Technologies used:JavaScript · CSS · HTML · axios · css-star-rating · izitoast · swiper · tui-pagination · modern-normalize · Figma · Adobe Photoshop · Vite 
+      <a href="https://github.com/ZViacheslavV/developers-orchestra-project">ArtistsHub</a> This is a group project. My role: Scrum Master Assistant. My contribution to the project was as follows: Developed the “Reviews” section on the website; Added toasts to the site (izitoast); Optimized the icon sprite; Optimized project images; Tested website functionality (PageSpeed Insights, CSS Validation Service, Markup Validation Service); Designed the project presentation in Figma; Supported team members and helped them finalize their sections to meet the deadline. Technologies used:JavaScript · CSS · HTML · axios · css-star-rating · izitoast · swiper · tui-pagination · modern-normalize · Figma · Adobe Photoshop · Vite 
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <a href="https://github.com/ZViacheslavV/biological-core-project">YogaBloom</a> This is a group project. My role: Scrum Master. My contribution to the project was as follows: Developed the “Why Yoga Helps You” section on the website; Optimized the icon sprite; Optimized project images; Tested website functionality (PageSpeed Insights, CSS Validation Service, Markup Validation Service); Designed the project presentation in Figma; Organizing online meetings. Technologies used: JavaScript · CSS · HTML · Figma · Adobe Photoshop · Vite
     </p>
   </li>
 </ul>
