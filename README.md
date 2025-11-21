@@ -65,7 +65,7 @@ Implemented features include: a section with my skills, a list of my projects, a
   </li>
 </ul>
 
-## 📊 GitHub Activity Graph
+<h2>📊 GitHub Activity Graph</h2>
 
 [![Nataliia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nataliia-Skoropad&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
