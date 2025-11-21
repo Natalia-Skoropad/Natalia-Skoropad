@@ -73,7 +73,6 @@ Implemented features include: a section with my skills, a list of my projects, a
 
 | **Languages** | **Contacts** |
 |---------------|--------------|
-| 🇺🇦 Ukrainian — Native | ✉️ nataliia.skoropad@gmail.com |
-| 🇷🇺 Russian — Fluent | 🔗 linkedin.com/in/nataliia-skoropad |
-| 🇬🇧 English — Intermediate | 🐙 github.com/Nataliia-Skoropad |
+| ![English](https://img.shields.io/badge/English-B1%2FB2-blue) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow) | [LinkedIn](https://www.linkedin.com/in/nataliia-skoropad) · [Telegram](https://t.me/YOUR_TELEGRAM) · [Email](mailto:nataliia.skoropad@gmail.com) |
+
 
