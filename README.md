@@ -63,8 +63,8 @@ Implemented features include: a section with my skills, a list of my projects, a
       <a href="https://github.com/Natalia-Skoropad/easy-notes">EasyNotes</a> This is a multi-page application that allows users to create, edit, and organize personal notes, designed for mobile, tablet, and desktop. Implemented features include: user registration, authentication, a personal profile with basic user information, and a notes section with the ability to filter notes by categories. Technologies used: Next.js · React · TypeScript · JavaScript · CSS · HTML · axios · cookie · Formic · yup · react-hot-toast · use-debounce · modern-normalize · clsx · lucide-react · zustand · react-paginate · Vercel
     </p>
   </li>
-
-    <li>
+  
+  <li>
     <p>
       <a href="https://github.com/ZViacheslavV/developers-orchestra-project">ArtistsHub</a> This is a group project. My role: Scrum Master Assistant. My contribution to the project was as follows: Developed the “Reviews” section on the website; Added toasts to the site (izitoast); Optimized the icon sprite; Optimized project images; Tested website functionality (PageSpeed Insights, CSS Validation Service, Markup Validation Service); Designed the project presentation in Figma; Supported team members and helped them finalize their sections to meet the deadline Technologies used:JavaScript · CSS · HTML · axios · css-star-rating · izitoast · swiper · tui-pagination · modern-normalize · Figma · Adobe Photoshop · Vite 
     </p>
