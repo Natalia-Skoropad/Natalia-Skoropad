@@ -5,6 +5,11 @@
   <img src="img/banner.png" alt="Nataliia Skoropad" width="100%">
 </p>
 
+<p>Frontend Developer with a background in UX/UI and graphic design. 
+Focused on building responsive web applications with React and TypeScript. 
+Worked on CRM systems, mobile apps, and corporate websites at Avada Media.
+Combines design thinking with development to create efficient user interfaces.</p>
+
 <!-- DEV & DESIGN STACK -->
 <h2>DEV &amp; DESIGN STACK</h2>
 
