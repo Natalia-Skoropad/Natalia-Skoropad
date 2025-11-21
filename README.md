@@ -73,7 +73,7 @@ Implemented features include: a section with my skills, a list of my projects, a
 
 <h2>GitHub Activity Graph</h2>
 
-[![Nataliia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nataliia-Skoropad&bg_color=0E0E0E&color=F5F5F5&line=6C63FF&point=6C63FF&area=true&area_color=6C63FF&title_color=6C63FF&border_color=CBAF87&radius=8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Nataliia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Skoropad&bg_color=0E0E0E&color=F5F5F5&line=6C63FF&point=6C63FF&area=true&area_color=6C63FF&title_color=6C63FF&border_color=CBAF87&radius=8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <h2>Languages & Contacts</h2>
 
