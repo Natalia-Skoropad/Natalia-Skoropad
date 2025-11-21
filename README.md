@@ -58,4 +58,9 @@ Implemented features include: a section with my skills, a list of my projects, a
     </p>
   </li>
 
+  <li>
+    <p>
+      <a href="https://github.com/Natalia-Skoropad/easy-notes">EasyNotes</a> This is a multi-page application that allows users to create, edit, and organize personal notes, designed for mobile, tablet, and desktop. Implemented features include: user registration, authentication, a personal profile with basic user information, and a notes section with the ability to filter notes by categories. Technologies used: Next.js · React · TypeScript · JavaScript · CSS · HTML · axios · cookie · Formic · yup · react-hot-toast · use-debounce · modern-normalize · clsx · lucide-react · zustand · react-paginate · Vercel
+    </p>
+  </li>
 </ul>
