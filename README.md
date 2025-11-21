@@ -1,5 +1,5 @@
 <!-- banner -->
-<h2>👋 Hi, I'm Nataliia Skoropad</h2>
+<h2>Hi, I'm Nataliia Skoropad</h2>
 
 <p align="center">
   <img src="img/banner.png" alt="Nataliia Skoropad" width="100%">
@@ -13,7 +13,7 @@
 </p>
 
 <!-- DEV & DESIGN STACK -->
-<h2>💻 DEV &amp; DESIGN STACK</h2>
+<h2>DEV &amp; DESIGN STACK</h2>
 
 <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0;">
   <tr>
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<h2>🚀 Featured Projects</h2>
+<h2>Featured Projects</h2>
 <ul>
   <li>
     <p>
@@ -65,13 +65,13 @@ Implemented features include: a section with my skills, a list of my projects, a
   </li>
 </ul>
 
-<h2>📊 GitHub Activity Graph</h2>
+<h2>GitHub Activity Graph</h2>
 
 [![Nataliia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Skoropad&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## 📝 Languages & Contacts
+<h2>Languages & Contacts</h2>
 
-| **Languages** | **Contacts** |
+| Languages | Contacts |
 |---------------|--------------|
 | ![English](https://img.shields.io/badge/English-B1/B2-6C63FF?style=for-the-badge&labelColor=0E0E0E&color=6C63FF&logoColor=F5F5F5) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-CBAF87?style=for-the-badge&labelColor=0E0E0E&color=CBAF87&logoColor=0E0E0E) | 
 [![Email](https://img.shields.io/badge/Email-skoropad_natalia%40ukr.net-6C63FF?style=for-the-badge&labelColor=0E0E0E&color=6C63FF)](mailto:skoropad_natalia@ukr.net)  
