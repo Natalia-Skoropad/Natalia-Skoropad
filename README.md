@@ -63,6 +63,12 @@ Implemented features include: a section with my skills, a list of my projects, a
       <a href="https://github.com/Natalia-Skoropad/easy-notes">EasyNotes</a> This is a multi-page application that allows users to create, edit, and organize personal notes, designed for mobile, tablet, and desktop. Implemented features include: user registration, authentication, a personal profile with basic user information, and a notes section with the ability to filter notes by categories. Technologies used: Next.js · React · TypeScript · JavaScript · CSS · HTML · axios · cookie · Formic · yup · react-hot-toast · use-debounce · modern-normalize · clsx · lucide-react · zustand · react-paginate · Vercel
     </p>
   </li>
+
+  <li>
+    <p>
+      <a href="https://github.com/Natalia-Skoropad/sweet_cheese_pancakes_recipe">Sweet Cheese Pancakes Recipe</a> This is a fully responsive, SEO-optimized recipe webpage designed for mobile, tablet, and desktop. The project includes a detailed recipe page with a photo gallery, an ingredient table, step-by-step cooking directions, helpful tips, an author section, and an interactive feedback form with validation. The page also features structured metadata (Open Graph, Twitter Card), a custom favicon, accessibility improvements (ARIA labels, semantic HTML), and optimized images for performance. Technologies used: HTML · CSS (modular) · JavaScript · modern-normalize · adaptive images (picture/srcset) · SVG sprite
+    </p>
+  </li>
   
   <li>
     <p>
@@ -81,16 +87,8 @@ Implemented features include: a section with my skills, a list of my projects, a
 
 [![Nataliia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Skoropad&bg_color=0E0E0E&color=F5F5F5&line=6C63FF&point=CBAF87&area=true&area_color=6C63FF&title_color=6C63FF&border_color=CBAF87&radius=8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-
 <h2>Languages & Contacts</h2>
 
-| **Languages** | **Contacts** |
-|---------------|--------------|
+| **Languages**                                                                                                                                                                                                                          | **Contacts**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![English](https://img.shields.io/badge/English-B1%2FB2-6C63FF?style=flat-rounded&labelColor=0E0E0E&color=6C63FF) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-CBAF87?style=flat-rounded&labelColor=0E0E0E&color=CBAF87) | [![Email](https://img.shields.io/badge/Email-skoropad__natalia%40ukr.net-6C63FF?style=flat-rounded&labelColor=0E0E0E&color=6C63FF)](mailto:skoropad_natalia@ukr.net) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataliia--Skoropad-CBAF87?style=flat-rounded&labelColor=0E0E0E&color=CBAF87)](https://www.linkedin.com/in/nataliia-skoropad/) [![Telegram](https://img.shields.io/badge/Telegram-%40skoropad__natalia-6C63FF?style=flat-rounded&labelColor=0E0E0E&color=6C63FF)](https://t.me/skoropad_natalia) |
-
-
-
-
-
-
-
