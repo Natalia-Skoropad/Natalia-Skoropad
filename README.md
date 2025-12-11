@@ -41,7 +41,7 @@
     </td>
     <td align="right" valign="top"
         style="padding:0; border-right:2px; border-top:0; border-bottom:0;">
-            <img
+      <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Natalia-Skoropad&layout=compact&langs_count=6&hide_title=false&title_color=6C63FF&text_color=F5F5F5&bg_color=0E0E0E&hide_border=true&border_radius=10&cache_seconds=7200"
         alt="Most Used Languages"
       />
@@ -67,6 +67,12 @@ Implemented features include: a section with my skills, a list of my projects, a
   <li>
     <p>
       <a href="https://github.com/Natalia-Skoropad/sweet_cheese_pancakes_recipe">Sweet Cheese Pancakes Recipe</a> This is a fully responsive, SEO-optimized recipe webpage designed for mobile, tablet, and desktop. The project includes a detailed recipe page with a photo gallery, an ingredient table, step-by-step cooking directions, helpful tips, an author section, and an interactive feedback form with validation. The page also features structured metadata (Open Graph, Twitter Card), a custom favicon, accessibility improvements (ARIA labels, semantic HTML), and optimized images for performance. Technologies used: HTML · CSS (modular) · JavaScript · modern-normalize · adaptive images (picture/srcset) · SVG sprite
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <a href="https://github.com/Natalia-Skoropad/planet_fitness_studio">Planet Fitness Studio</a> This is a fully responsive, modern fitness website designed for mobile, tablet, and desktop. Implemented features include a dynamic hero section, adaptive club gallery, membership plans with highlighted offers, program guides, a contact section with an interactive callback form, a custom modal window, and optimized adaptive images (picture/srcset). The project also includes structured metadata (Open Graph, Twitter Card), a custom favicon, accessibility improvements, and smooth UI interactions. Technologies used: HTML · CSS (modular) · JavaScript · modern-normalize · adaptive images (picture/srcset) · SVG sprite
     </p>
   </li>
   
